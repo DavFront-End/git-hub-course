@@ -8,5 +8,5 @@ Este é um repositorio teste para ensinar como o Git funciona
 
 Visualizando o diff
 
-[https://www.instagram.com/]
+(https://www.instagram.com/)
 
